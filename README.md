@@ -107,4 +107,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or issues, please contact:
 
 - **Name**: B.S Karthik 
-- **Email**: karthik.uk@outlook.in
+- **Linkedin**: linkedin.com/in/karthikbs85
